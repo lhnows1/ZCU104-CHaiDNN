@@ -2,3 +2,6 @@
 
 # Compiled Object files
 *.o
+/SD_Card/models
+/design/build/_sds
+
